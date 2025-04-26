@@ -1,2 +1,1 @@
-Dom Manupulation \n
-Local Storage
+Dom Manupulation, Local Storage
